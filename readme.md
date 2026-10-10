@@ -1,5 +1,19 @@
 # WA DOT Login Automation
 
+## Disclaimer
+
+This project is intended solely for educational purposes, technical research, and knowledge sharing.
+
+It demonstrates HTTP session management, cookie handling, authentication workflows, and redirect processing using Python.
+
+This project is not affiliated with, endorsed by, or officially supported by the Western Australia Department of Transport (WA DOT).
+
+Users are responsible for ensuring that their use of this software complies with applicable laws, website terms of service, and access restrictions.
+
+**Unauthorized access, bypassing security controls, and accessing third-party accounts or data are strictly discouraged.**
+
+The author assumes no responsibility for misuse of this software.
+
 基于 Python 的 Western Australia Department of Transport（WA DOT）在线服务登录会话管理工具。
 
 项目通过模拟浏览器 HTTP 请求，实现登录流程、Cookie 会话维护以及重定向处理，支持 JavaServer Faces（JSF）应用的特殊响应机制。
